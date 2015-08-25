@@ -1,0 +1,17 @@
+{
+  "name": "tmf-moneytrail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GNU AFFERO GENERAL PUBLIC LICENSE",
+  "devDependencies": {
+    "browser-sync": "^1.7.2",
+    "gulp": "^3.8.10",
+    "gulp-gh-pages": "^0.5.1",
+    "gulp-load-plugins": "^0.10.0"
+  }
+}

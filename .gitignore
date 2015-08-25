@@ -1,0 +1,12 @@
+*.pyc
+*.swp
+node_modules
+bower_components
+index.html
+error.html
+divshot.json
+.publish
+.divshot-cache
+data/*.json
+static/*.png
+static/*.svg

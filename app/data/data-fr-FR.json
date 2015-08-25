@@ -1,0 +1,40 @@
+{
+  "i18n": {
+    "decimal_separator": ",", 
+    "title": "Titre", 
+    "billions": "milliards", 
+    "millions_abbrev": "M", 
+    "thousands_separator": " ", 
+    "subtitle": "Sous-titre", 
+    "millions": "millions"
+  }, 
+  "children": [
+    {
+      "parent": "", 
+      "title": "Titre Un", 
+      "color": "#e28956", 
+      "text": "Corps Un", 
+      "amount": 100000, 
+      "id": "1"
+    }, 
+    {
+      "parent": "", 
+      "title": "Titre Deux", 
+      "color": "#c19a64", 
+      "text": "Corps Deux", 
+      "amount": 1000000, 
+      "subnodes": [
+        {
+          "parent": "2", 
+          "title": "Titre Trois", 
+          "color": "", 
+          "text": "Corps Trois", 
+          "amount": 200000, 
+          "id": "3"
+        }
+      ], 
+      "id": "2"
+    }
+  ], 
+  "title": "root"
+}
